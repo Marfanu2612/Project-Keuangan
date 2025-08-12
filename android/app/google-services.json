@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322115077397",
+    "project_id": "keuanganpribadi-ea812",
+    "storage_bucket": "keuanganpribadi-ea812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322115077397:android:de5f6cbde858d094fa951c",
+        "android_client_info": {
+          "package_name": "com.projectkeuangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXzBZ1i4_gNzsyCdAmhhfyVoWUmWL7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
